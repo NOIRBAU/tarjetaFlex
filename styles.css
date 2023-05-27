@@ -249,6 +249,8 @@ main{
     align-items: center;
     justify-content: space-evenly;
     background-color: var(--black-color);
+    flex-wrap: wrap; 
+    align-self: flex-end;
 }
 
 .footer__socialMedia img {
